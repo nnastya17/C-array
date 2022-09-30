@@ -1,0 +1,15 @@
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# array\Task1\Task1\bin\Debug\net6.0\Task1.exe
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# array\Task1\Task1\bin\Debug\net6.0\Task1.deps.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# array\Task1\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# array\Task1\Task1\bin\Debug\net6.0\Task1.dll
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# array\Task1\Task1\bin\Debug\net6.0\Task1.pdb
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# array\Task1\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# array\Task1\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# array\Task1\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# array\Task1\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# array\Task1\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# array\Task1\Task1\obj\Debug\net6.0\Task1.dll
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# array\Task1\Task1\obj\Debug\net6.0\refint\Task1.dll
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# array\Task1\Task1\obj\Debug\net6.0\Task1.pdb
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# array\Task1\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# array\Task1\Task1\obj\Debug\net6.0\ref\Task1.dll
